@@ -1,2 +1,2 @@
 # Swing-Calculator
-Simple calculator coded with java 
+Simple integer calculator coded with java 
